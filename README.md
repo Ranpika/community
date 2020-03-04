@@ -23,6 +23,9 @@
 
 [MyBatis](http://mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/)
 
+[flyway数据库迁移工具](https://flywaydb.org/getstarted/firststeps/maven)
+
+
 ## 工具
 [Git](https://git-scm.com/download)
 
@@ -37,3 +40,5 @@ CREATE CACHED TABLE "PUBLIC"."USER"(
     "GMT_MODIFIED" BIGINT
 )
 ```
+
+[H2数据库本地用户](ran,123/sa,123)
